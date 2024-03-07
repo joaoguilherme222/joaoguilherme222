@@ -7,6 +7,8 @@
 
 ![joaoguilherme222 GitHub stats](https://github-readme-stats.vercel.app/api?username=joaoguilherme222&show_icons=true&theme=radical)
 
+![Snake animation](https://github.com/joaoguilherme222)
+
 ### Tecnologias que uso no meu dia a dia:
 
 <div style="display: inline_block"><br/>
