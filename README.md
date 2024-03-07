@@ -19,3 +19,6 @@
 ### Estudande do instituto federal catarinense campus araquari💚, futuro técnico em informática 2/3.
 
 
+
+
+
