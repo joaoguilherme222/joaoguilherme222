@@ -7,7 +7,7 @@
 
 ![joaoguilherme222 GitHub stats](https://github-readme-stats.vercel.app/api?username=joaoguilherme222&show_icons=true&theme=radical)
 
-##Tecnologias que uso no meu dia a dia 
+## Tecnologias que uso no meu dia a dia:
 
 <div style="display: inline_block"><br/>
   <img aling="center" alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
@@ -16,6 +16,6 @@
      <img aling="center" alt="VUE" src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D" />
 </div><br/>
 
-Estudande do instituto federal catarinense campus araquari💚, futuro técnico em informática 2/3.
+# Estudande do instituto federal catarinense campus araquari💚, futuro técnico em informática 2/3.
 
 
