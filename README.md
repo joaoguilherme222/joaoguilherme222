@@ -20,7 +20,7 @@
 ### Tecnologias que uso no meu dia a dia:
 
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,bootstrap,figma,mysql,py,vercel,vscode,vue)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,bootstrap,vue,py,mysql,vercel,vscode,figma)](https://skillicons.dev)
 
 
 ### Estudande do instituto federal catarinense campus araquari💚, futuro técnico em informática 2/3.
