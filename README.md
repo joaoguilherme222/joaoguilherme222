@@ -1,7 +1,7 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=ff91a4&height=120&section=header"/>
 <div>  
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=e83d84&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+My+name+is+João+Guilherme+(Dree);I'm+16+years+old;I'm+from+Brazil;
-I+am+a+student;Be+Welcome!+:%29)](https://git.io/typing-svg)
+  
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=e83d84&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+My+name+is+Fabio+Longo+De+Moura;I'm+39+years+old;I+am+from+São+Francisco,+SC;👨‍🏫+I’m+currently+working+at+IFC-Campus+Araquari;🏭+I’m+looking+to+collaborate+on+Fábrica+de+Software;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
 </div>
 
