@@ -23,7 +23,7 @@
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,bootstrap,vue,py,mysql,vercel,vscode,figma)](https://skillicons.dev)
 
 
-### Estudande do instituto federal catarinense campus araquari💚, futuro técnico em informática 3/3.
+### Estudante do instituto federal catarinense campus araquari💚, futuro técnico em informática 3/3.
 
 <picture align="center">
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/joaoguilherme222/joaoguilherme222/output/github-contribution-grid-snake-dark.svg">
