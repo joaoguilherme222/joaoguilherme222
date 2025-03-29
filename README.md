@@ -23,7 +23,7 @@
 
 ### My Tools:
 
-[![My Skills](https://skillicons.dev/icons?i=figma,git,github,vscode,vercel,ubunto,linux)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=figma,git,github,vscode,vercel,linux)](https://skillicons.dev)
 
 
 ### Estudante do instituto federal catarinense campus araquari💚, futuro técnico em informática 3/3.
