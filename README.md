@@ -15,7 +15,7 @@
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/xaodree_/)
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joaomartinslino/)
 
-### Skills do meu dia a dia:
+### Linguagens que Estudo:
 
 
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,react,vue,py,mysql,md,sqlite,django)](https://skillicons.dev)
