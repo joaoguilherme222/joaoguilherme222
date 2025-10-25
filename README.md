@@ -12,7 +12,7 @@
 ### Linguagens que Estudo:
 
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,react,vue,py,mysql,md,sqlite,django)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,vue,py,mysql,md,sqlite,django)](https://skillicons.dev)
 
 
 ### My Tools:
