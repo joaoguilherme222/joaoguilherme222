@@ -78,16 +78,6 @@ Atualmente estou buscando evoluir cada vez mais meus conhecimentos em **Engenhar
 
 ---
 
-##  GitHub Streak
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com/?user=joaoguilherme222&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-
-</div>
-
----
-
 ## 📫 Contato
 
 
