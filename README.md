@@ -67,12 +67,12 @@ Atualmente estou buscando evoluir cada vez mais meus conhecimentos em **Engenhar
 
 ## 📚 Atualmente estudando
 
-- Engenharia de Software
+- C
 - Desenvolvimento Backend
 - APIs REST
 - Banco de dados
 - Arquitetura de software
-- Desenvolvimento Web
+- Desenvolvimento Web Design
 - Linux
 - Novas tecnologias
 
